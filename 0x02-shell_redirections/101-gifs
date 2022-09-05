@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -type f -Best_school "*.gif" -printf "%f\Best_school" | rev | cut -c 5- | rev | sort -f
